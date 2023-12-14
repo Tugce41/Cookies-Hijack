@@ -1,7 +1,5 @@
 #!/bin/bash
 # GetCookies v1.0
-# Coded by @linux_choice (Don't change! Read the License!)
-# Github: https://github.com/thelinuxchoice/getcookies
 
 host="159.89.214.31" #Serveo.net (Port Forwarding Tunneling)
 
